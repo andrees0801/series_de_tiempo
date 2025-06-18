@@ -1,0 +1,1 @@
+Este repositorio contiene los ejercicios realizados durante el curso de Series de Tiempo de la Maestría. Incluye análisis, modelado y predicción de datos temporales utilizando métodos estadísticos y técnicas especializadas, con el objetivo de profundizar en el entendimiento y la aplicación práctica de conceptos relacionados con series temporales.
